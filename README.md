@@ -13,4 +13,6 @@ curl -o [ファイル名] [url]
 curl -# -O [URL]
 
 -D HTTPのヘッダ情報を表示させる
+
+-H "PRIVATE-TOKEN: token"
 ```
